@@ -2,7 +2,13 @@
 
 The ultimate list of the best @vscode extensions. The goal of this repository of this repository is to gather the most useful vscode extensions.
 
-Contribution guidelines in README file.
+## Contribution guidelines The list is contributed to in this format
+
+## Format for new extensions
+
+* Try to categorise by language or framework for use
+* Extension name
+* Short one-line description of use. Link to extension website.
 
 ## Frontend tools
 
